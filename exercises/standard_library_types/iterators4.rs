@@ -1,6 +1,5 @@
 // iterators4.rs
 
-// I AM NOT DONE
 
 use std::ops::Shr;
 
